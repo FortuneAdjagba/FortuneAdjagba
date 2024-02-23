@@ -2,6 +2,7 @@
 
 I am a software engineer...
 
+- 🙋🏻‍♂️ Always open to opportunities for collaboration and knowledge sharing in the field of Educational Technology
 - 🎓 Education: BSc in Software Engineering (Information Science)
 - 💻 Technologies: Python, JavaScript, Java, C++ / scikit-learn, Tensorflow
 - 📌 Currently learning: p5.js, Tensorflow
